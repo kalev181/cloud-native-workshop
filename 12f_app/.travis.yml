@@ -6,5 +6,5 @@ deploy:
   provider: cloudfoundry
   username: kalev181 
   api: https://api.run.pivotal.io
-  organization: YOUR_ORG
-  space: YOUR_SPACE
+  organization: kalev
+  space: development
